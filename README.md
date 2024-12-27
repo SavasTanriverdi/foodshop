@@ -18,7 +18,7 @@ Food Shop is an Android application that provides the fastest food delivery serv
 
 1. Clone the repository:
     ```sh
-    [git clone https://github.com/yourusername/food-shop.git](https://github.com/SavasTanriverdi/foodshop.git)
+    https://github.com/SavasTanriverdi/foodshop.git
     ```
 2. Open the project in Android Studio.
 3. Build the project to download all dependencies.
