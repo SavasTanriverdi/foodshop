@@ -11,9 +11,8 @@ Food Shop is an Android application that provides the fastest food delivery serv
 
 ## Screenshots
 
-![Screenshot_20241227_135103](https://github.com/user-attachments/assets/95beb6a8-12d8-4e3a-a0a0-100f5c8d227b)
-![Screenshot_20241227_135122](https://github.com/user-attachments/assets/c14378a9-4add-499b-9fd7-c484d30f20c1)
-
+<img src="https://github.com/user-attachments/assets/95beb6a8-12d8-4e3a-a0a0-100f5c8d227b" width="300">
+<img src="https://github.com/user-attachments/assets/c14378a9-4add-499b-9fd7-c484d30f20c1" width="300">
 
 ## Installation
 
@@ -42,8 +41,8 @@ Food Shop is an Android application that provides the fastest food delivery serv
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is free software - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any inquiries, please contact [yourname@example.com](mailto:yourname@example.com).
+For any inquiries, please contact [savastnr@duck.com](mailto:savastnr@duck.com).
